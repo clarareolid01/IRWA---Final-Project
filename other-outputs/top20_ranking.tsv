@@ -1,0 +1,87 @@
+	Query	Result	Tweet	Id	User	Date	Hashtags	Cluster	TopicRichness	Words
+0	test	1	"""As the @WHO's Dr. Tedros said very emphatically at the very outset: “Test, test, test”. As a physician, I wish he’… https://t.co/n3Dn2NwnlE"	5710	manigreeva	Sun Nov 22 11:12:43 +0000 2020	[]	0.0	9.512778224714583e-05	who dr tedro said emphat outset test test test physician wish
+1	test	2	"Loeffler tests positive for Covid but undergoing further testing
+https://t.co/5ulPDNmhne"	9774	bote930	Sun Nov 22 11:26:46 +0000 2020	[]	0.0	0.0018463648458519586	loeffler test posit covid undergo test
+2	test	3	@mel_faith1 The thing is is there is NO test for Covid! The test is for a virus only	6685	susanlee52	Sun Nov 22 11:16:15 +0000 2020	[]	0.0	-0.00032220929354842965	mel_faith1 thing test covid test viru
+3	test	4	Testing. Testing. Covid/TheDanes: 'They kept it up for a month.1.8% of mask wearers tested positive &amp; 2.1% of the u… https://t.co/Oc5tGJDuuH	3034	Fuerza_Mundial	Sun Nov 22 11:04:34 +0000 2020	[]	0.0	0.0007356799139667318	test test covidthedan kept month18 mask wearer test posit amp 21 u
+4	test	5	"Loeffler tests positive for Covid but undergoing further testing
+https://t.co/c06EbCUbZA"	472	DeeFonta	Sun Nov 22 10:56:01 +0000 2020	[]	0.0	0.005544894615846776	loeffler test posit covid undergo test
+5	test	6	@GBPublicHealth Is every patient that takes a Covid test taking a flu test too? Did you stop testing for the flu al… https://t.co/mTMNKwvEox	7144	theresabeverag1	Sun Nov 22 11:17:51 +0000 2020	[]	0.0	0.0001079470604193416	gbpublichealth everi patient take covid test take flu test stop test flu al
+6	test	7	"Georgia Sen. Kelly Loeffler tests positive for Covid but is undergoing further testing.
+https://t.co/rYLPlhyaQw"	4668	MrsVSNC09	Sun Nov 22 11:09:31 +0000 2020	[]	0.0	0.00021246960902998092	georgia sen kelli loeffler test posit covid undergo test
+7	test	8	KARMA.......Georgia Sen. Kelly Loeffler tests positive for Covid but is undergoing further testing - CNN… https://t.co/JFRCgDaqko	7420	m0m19001	Sun Nov 22 11:18:43 +0000 2020	[]	0.0	-2.3258388781474113e-05	karmageorgia sen kelli loeffler test posit covid undergo test cnn
+8	test	9	@safiume Or better testing: https://t.co/Iaif2cdF7b	7096	nahumshalman	Sun Nov 22 11:17:39 +0000 2020	[]	0.0	1.5596213889095625e-05	safium better test
+9	test	10	#YEDNOnCovid19 have you been tested for #coronavirus ?if not ,visit the #coronavirus center to get tested?… https://t.co/dt3dDD20xd	6591	MutieMumbua	Sun Nov 22 11:16:00 +0000 2020	['YEDNOnCovid19', 'coronavirus', 'coronavirus']	0.0	-0.0002665741964422599	yednoncovid19 test coronaviru visit coronaviru center get test
+10	test	11	...and testing negative for ethics.	5072	DanDiego	Sun Nov 22 11:10:43 +0000 2020	[]	0.0	-0.00047904748160322987	test neg ethic
+11	test	12	@DailyMirror Mass testing should not stop at 2 test but should be continuously carried out until we know where the virus is and who has it .	4722	STSIMON95984452	Sun Nov 22 11:09:40 +0000 2020	[]	0.0	-0.00026378831698467195	dailymirror mass test stop 2 test continu carri know viru
+12	test	13	@JonLoflin that's the problem.  this test cannot tell and as virus is more spread in a population, the % of tests t… https://t.co/A0Kd0X4xeF	3450	boriquagato	Sun Nov 22 11:05:43 +0000 2020	[]	0.0	-0.00028522254319739924	jonloflin that problem test cannot tell viru spread popul test
+13	test	14	Over 170 million coronavirus tests have already been given in the U.S. and it’s territories. The tests are availabl… https://t.co/mNXppr2AQp	1342	suebrown1212	Sun Nov 22 10:58:53 +0000 2020	[]	0.0	-0.00046320579387470166	170 million coronaviru test alreadi given us territori test availabl
+14	test	15	"𝗡𝗲𝗽𝗮𝗹 𝗖𝗢𝗩𝗜𝗗-𝟭𝟵 𝗦𝘁𝗮𝘁𝘂𝘀
+Tests (PCR): 1,660,075
+Tests (RDT): 312,402
+Positive: 220,308
+Recovered: 199,024
+In Isolation… https://t.co/UZeNF075zy"	7624	NepalCorona	Sun Nov 22 11:19:23 +0000 2020	[]	0.0	0.00018272871298968536	test pcr 1660075 test rdt 312402 posit 220308 recov 199024 isol
+15	test	16	Kelly Loeffler tests positive for Covid but undergoing further testing - CNNPolitics #Mtnews #Georgia #CDC  https://t.co/BevWrVugTC	7098	stewardmagazine	Sun Nov 22 11:17:41 +0000 2020	['Mtnews', 'Georgia', 'CDC']	0.0	-0.0004969932538576234	kelli loeffler test posit covid undergo test cnnpolit mtnew georgia cdc
+16	test	17	"“Testing doesn’t matter” -my family in reference to COVID testing before any thanksgiving plans...... 
+
+Word... whe… https://t.co/aOnzp7EccS"	5700	megadillo	Sun Nov 22 11:12:42 +0000 2020	[]	0.0	3.294920318003694e-05	test doesnt matter famili refer covid test thanksgiv plan word whe
+17	test	18	@jksmith34 Test and trace is a joke everywhere and testing someone for a virus that can catch a minute after the te… https://t.co/iEpxhLsWzb	4881	SFotonium	Sun Nov 22 11:10:08 +0000 2020	[]	0.0	-3.818399839290601e-05	jksmith34 test trace joke everywher test someon viru catch minut te
+18	test	19	BOMBSHELLLL! DO NOT GET TESTED FOR COVID. PCR TESTS ARE a TOTAL FRAUD. 100% PROOF | jmviverlivre https://t.co/3GLvykjNKr	4661	oscar226622	Sun Nov 22 11:09:31 +0000 2020	[]	0.0	0.00026555644196820863	bombshelll get test covid pcr test total fraud 100 proof jmviverlivr
+19	test	20	"Most #COVID19 test sites are open everyday, including at the weekend.
+
+If you have any symptoms, book a test. 
+
+Rem… https://t.co/LBotsgxI1b"	4234	HyndburnCouncil	Sun Nov 22 11:08:13 +0000 2020	['COVID19']	0.0	-5.467215652865927e-05	covid19 test site open everyday includ weekend symptom book test rem
+100	coronavirus	1	@atrupar Vice Coronavirus can't get coronavirus	7070	JohnCanvas1979	Sun Nov 22 11:17:35 +0000 2020	[]	0.0	0.0007625796832026831	atrupar vice coronaviru cant get coronaviru
+101	coronavirus	2	"THE SATANIC CORONAVIRUS, PANDEMIC, AND COMING CORONAVIRUS VACCINE MANDATE EXPOSED.  
+
+https://t.co/HqXSoFjKUq 11-22… https://t.co/e8JNucNjAg"	3643	choosetodaygod	Sun Nov 22 11:06:24 +0000 2020	[]	0.0	-0.00013499607403799792	satan coronaviru pandem come coronaviru vaccin mandat expos 1122
+102	coronavirus	3	If passed then #coronavirus vaccines will take more life’s then #coronavirus itself as to monitor side affects of a… https://t.co/Qo6FNEFKtF	1136	GBaba2020	Sun Nov 22 10:58:09 +0000 2020	['coronavirus', 'coronavirus']	0.0	-0.0027236427500021672	pass coronaviru vaccin take life coronaviru monitor side affect
+103	coronavirus	4	This is fantastic news! https://t.co/31ClAsFBRE #Coronavirus	9627	LivEchonews	Sun Nov 22 11:26:18 +0000 2020	['Coronavirus']	0.0	-0.0011555671425974522	fantast news coronaviru
+104	coronavirus	5	Can this be our future now? #coronavirus #vaccine	9008	the_nick_nick	Sun Nov 22 11:24:20 +0000 2020	['coronavirus', 'vaccine']	0.0	0.0016128787686494747	futur coronaviru vaccin
+105	coronavirus	6	"Australian man’s ‘lie’ caused state coronavirus lockdown 
+
+READ MORE: https://t.co/BYBdwIp9N7
+
+#cdc #coronavirus… https://t.co/CNOWLBEJrK"	8025	IAM__Network	Sun Nov 22 11:20:40 +0000 2020	['cdc', 'coronavirus']	0.0	0.0009384929430634489	australian man lie caus state coronaviru lockdown read cdc coronaviru
+106	coronavirus	7	More than 58 million Coronavirus cases now confirmed globally: Johns Hopkins University https://t.co/2k0PkU06i2 #CORONAVIRUS	7423	justearthnews	Sun Nov 22 11:18:44 +0000 2020	['CORONAVIRUS']	0.0	0.00016634299258450156	58 million coronaviru case confirm global john hopkin univers coronaviru
+107	coronavirus	8	#YEDNOnCovid19 have you been tested for #coronavirus ?if not ,visit the #coronavirus center to get tested?… https://t.co/dt3dDD20xd	6591	MutieMumbua	Sun Nov 22 11:16:00 +0000 2020	['YEDNOnCovid19', 'coronavirus', 'coronavirus']	0.0	-0.0002665741964422599	yednoncovid19 test coronaviru visit coronaviru center get test
+108	coronavirus	9	Is this REAL!??!?!?! #stopthesteal #coronavirus	5433	michael_micks	Sun Nov 22 11:11:53 +0000 2020	['stopthesteal', 'coronavirus']	0.0	0.0002559171015323702	real stopthest coronaviru
+109	coronavirus	10	just in my feels #coronavirus #help https://t.co/RlvocvhWED	4493	nuxxeles	Sun Nov 22 11:09:00 +0000 2020	['coronavirus', 'help']	0.0	0.00039560242033888734	feel coronaviru help
+110	coronavirus	11	"My answer to How has the coronavirus affected you?
+https://t.co/phFtyMxgNw"	1788	mukuljrsharma	Sun Nov 22 11:00:08 +0000 2020	[]	0.0	0.00015148263123542196	answer coronaviru affect
+111	coronavirus	12	Crazy #Delhi.  #coronavirus	399	vikantsahay	Sun Nov 22 10:55:48 +0000 2020	['Delhi', 'coronavirus']	0.0	-0.002596279859442948	crazi delhi coronaviru
+112	coronavirus	13	Coronavirus discrimination: Working class suffer the most from lockdown - [Coronavirus], Source: Express News UK -… https://t.co/OD5kcntCKJ	3840	iWeller_health	Sun Nov 22 11:07:02 +0000 2020	[]	0.0	0.0001754733258712883	coronaviru discrimin work class suffer lockdown coronaviru sourc express news uk
+113	coronavirus	14	wow this is awful... #coronavirus #Corona	9912	CryptoCNCDesign	Sun Nov 22 11:27:10 +0000 2020	['coronavirus', 'Corona']	0.0	-0.0007828501552201442	wow aw coronaviru corona
+114	coronavirus	15	Is the coronavirus taking a break as well?	9118	ttham	Sun Nov 22 11:24:41 +0000 2020	[]	0.0	0.0007073930633188562	coronaviru take break well
+115	coronavirus	16	Coronavirus situation in St Helens. https://t.co/dbzfumFhjq	8903	bob_bellis	Sun Nov 22 11:24:01 +0000 2020	[]	0.0	0.0005299176003263085	coronaviru situat st helen
+116	coronavirus	17	@timesofindia Coronavirus laughing at humanity	7650	mrs_ati_uttam	Sun Nov 22 11:19:28 +0000 2020	[]	0.0	-0.00044859943710806035	timesofindia coronaviru laugh human
+117	coronavirus	18	Well. That’s a relief. #coronavirus https://t.co/psOMslkoLg	7344	FunkyDadDunc	Sun Nov 22 11:18:32 +0000 2020	['coronavirus']	0.0	-2.6113555122529974e-05	well that relief coronaviru
+118	coronavirus	19	Please vote #coronavirus #vaccine 👇🏻	7257	ideabound	Sun Nov 22 11:18:17 +0000 2020	['coronavirus', 'vaccine']	0.0	0.00042182689391181977	pleas vote coronaviru vaccin
+119	coronavirus	20	"#Covid19 #coronavirus #plasma
+Help 🙏 https://t.co/kB3CJdHdTs"	5789	rksadhi	Sun Nov 22 11:13:28 +0000 2020	['Covid19', 'coronavirus', 'plasma']	0.0	-0.00017993170943817556	covid19 coronaviru plasma help
+200	realdonaldtrump	1	"@realDonaldTrump AND YOU GOLF? 
+https://t.co/J3VEpjD1fX"	9759	2_sh0t	Sun Nov 22 11:26:43 +0000 2020	[]	2.0	-0.00605859644380717	realdonaldtrump golf
+201	realdonaldtrump	2	"@realDonaldTrump LIES!
+https://t.co/pnuQVjcf2P"	8361	FireFly57	Sun Nov 22 11:22:18 +0000 2020	[]	2.0	-0.000374384961467459	realdonaldtrump lie
+202	realdonaldtrump	3	@realDonaldTrump COVID!	7816	SUZVZ	Sun Nov 22 11:20:00 +0000 2020	[]	2.0	-0.0003019865974322399	realdonaldtrump covid
+203	realdonaldtrump	4	"@realDonaldTrump ""Covid"" ????
+Go the fuck awaaaaaay"	8950	2chinknight	Sun Nov 22 11:24:08 +0000 2020	[]	2.0	-0.000393589018318099	realdonaldtrump covid go fuck awaaaaaay
+204	realdonaldtrump	5	@KLoeffler and @DonaldJTrumpJr did @realDonaldTrump give you #covid19?	8383	TraceyNew	Sun Nov 22 11:22:23 +0000 2020	['covid19']	2.0	0.0005754126536826977	kloeffler donaldjtrumpjr realdonaldtrump give covid19
+205	realdonaldtrump	6	@realDonaldTrump I thought the whole Virus-thing was a hoax.	7562	BottenbergThe	Sun Nov 22 11:19:10 +0000 2020	[]	2.0	-0.00025155167571624146	realdonaldtrump thought whole virusth hoax
+206	realdonaldtrump	7	@realDonaldTrump It’s not because of you. You have FAILED to lead during this pandemic and that is why you are FIRED!	7334	mariabendeck1	Sun Nov 22 11:18:31 +0000 2020	[]	2.0	0.0007095044086312287	realdonaldtrump fail lead pandem fire
+207	realdonaldtrump	8	"But how much golf has @realDonaldTrump played?!
+#UNFIT"	6969	JimFullington	Sun Nov 22 11:17:14 +0000 2020	['UNFIT']	2.0	0.0004916925123649507	much golf realdonaldtrump play unfit
+208	realdonaldtrump	9	@davidmweissman @realDonaldTrump Cases of COVID-19 with no symptoms are too.	6219	BostonIrish2018	Sun Nov 22 11:14:49 +0000 2020	[]	0.0	-0.00027509666549857575	davidmweissman realdonaldtrump case covid19 symptom
+209	realdonaldtrump	10	@realDonaldTrump Do something about the pandemic idiot, 260.000 💀💀💀💀💀	6086	blanken_robert	Sun Nov 22 11:14:26 +0000 2020	[]	2.0	0.00022600125972966183	realdonaldtrump someth pandem idiot 260000
+210	realdonaldtrump	11	@realDonaldTrump But you not paid your own taxes and you have ignored covid	5462	penticost_kathy	Sun Nov 22 11:11:59 +0000 2020	[]	2.0	-7.146639650343631e-05	realdonaldtrump paid tax ignor covid
+211	realdonaldtrump	12	Great question! Waiting for the answer of @realDonaldTrump	3980	Cibolle	Sun Nov 22 11:07:23 +0000 2020	[]	2.0	-0.0003501161508655208	great question wait answer realdonaldtrump
+212	realdonaldtrump	13	@NunoMat61306207 @realDonaldTrump And the leader of this pandemic spreading	1346	Bcd_bcd_1234	Sun Nov 22 10:58:54 +0000 2020	[]	2.0	0.0020049949633641592	nunomat61306207 realdonaldtrump leader pandem spread
+213	realdonaldtrump	14	@ElephantWeIgnor @greta @realDonaldTrump What pandemic?? Get a grip.	9780	Venus15931602	Sun Nov 22 11:26:47 +0000 2020	[]	0.0	0.0038348343668061775	elephantweignor greta realdonaldtrump pandem get grip
+214	realdonaldtrump	15	@realDonaldTrump Waiting to hear data on Coke and Covid	8963	AliciaW49891497	Sun Nov 22 11:24:10 +0000 2020	[]	2.0	-0.0009573678319279892	realdonaldtrump wait hear data coke covid
+215	realdonaldtrump	16	@realDonaldTrump What happened to the “COVID will magically disappear after the election”?	7866	S___n_R_______n	Sun Nov 22 11:20:09 +0000 2020	[]	2.0	-0.00015156459156057277	realdonaldtrump happen covid magic disappear elect
+216	realdonaldtrump	17	@realDonaldTrump We have vaccinated ourselves from Covid-45 so please go away now!	7129	thirdeyewise1	Sun Nov 22 11:17:48 +0000 2020	[]	2.0	-6.989406725153461e-05	realdonaldtrump vaccin covid45 pleas go away
+217	realdonaldtrump	18	@realDonaldTrump Well, that can only be to your credit, is that it?? Even here in the UK, where our research and me… https://t.co/P7uDzRJeAD	3913	PeterCl58611829	Sun Nov 22 11:07:14 +0000 2020	[]	2.0	-6.720945712611494e-05	realdonaldtrump well credit even uk research
+218	realdonaldtrump	19	@realDonaldTrump You believe in a vaccine for a virus that you think is a hoax!	3079	victoriacurr	Sun Nov 22 11:04:40 +0000 2020	[]	2.0	-5.2582538988055263e-05	realdonaldtrump believ vaccin viru think hoax
+219	realdonaldtrump	20	And @realDonaldTrump went golfing as more Americans die from #coronavirus	608	torbor_n	Sun Nov 22 10:56:28 +0000 2020	['coronavirus']	2.0	-0.005105983165202259	realdonaldtrump went golf american die coronaviru
